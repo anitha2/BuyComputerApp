@@ -1,0 +1,8 @@
+base
+knitr
+shiny
+lattice
+ggplot2
+caret
+pROC
+class

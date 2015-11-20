@@ -1,0 +1,16 @@
+RID	age	income	student	credit	Ci:	buy
+1	youthhigh	no	fair	C2:	no
+2	youth			high	no	excellent	C2:	no
+3	middle-aged	high	no	fair	C1:	yes
+4	senior	medium	no	fair	C1:	yes
+5	senior	low	yes	fair	C1:	yes
+6	senior	low	yes	excellent	C2:	no
+7	middle-aged	low	yes	excellent	C1:	yes
+8	youth	medium	no	fair	C2:	no
+9	youth	low	yes	fair	C1:	yes
+10	senior	medium	yes	fair	C1:	yes
+11	youth	medium	yes	excellent	C1:	yes
+12	middle-aged	medium	no	excellent	C1:	yes
+13	middle-aged	high	yes	fair	C1:	yes
+14	senior	medium	no	excellent	C2:	no
+	
